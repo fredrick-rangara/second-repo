@@ -6,9 +6,9 @@
 
 ## 🌟 Features
 
-- ⏱️ 25-minute Pomodoro timer
-- 🎮 Level up your character as you complete sessions
-- 🧑‍🌾 Evolving avatar based on your level
-- 💾 Local storage to keep your progress
-- 🔔 Alerts when a session ends
+- 25-minute Pomodoro timer
+- Level up your character as you complete sessions
+- Evolving avatar based on your level
+- Local storage to keep your progress
+- Alerts when a session ends
 
